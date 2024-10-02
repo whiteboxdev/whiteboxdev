@@ -1,5 +1,9 @@
 # White Box Dev
 
+**After a few years of development, I decided to retire this account and focus on professional work instead. Although I may occasionally maintain and accept pull requests for projects that others rely on, future contributions will be extremely rare or nonexistent.**
+
+---
+
 Welcome! This is where I share some of my personal programming projects. Most of them are related to game development.
 
 Respositories are organized by the following prefixes:
