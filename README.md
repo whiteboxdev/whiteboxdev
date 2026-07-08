@@ -1,6 +1,6 @@
 # White Box Dev
 
-**After a few years of development, I decided to retire this account and focus on professional work instead. Although I may occasionally maintain and accept pull requests for projects that others rely on, future contributions will be extremely rare or nonexistent.**
+**I decided to retire this account to focus on other things. Repositories will no longer be maintained. Please take that into account when deciding to make use of them.**
 
 ---
 
